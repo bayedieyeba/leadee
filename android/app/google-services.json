@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685897189625",
+    "project_id": "leadee-c50ab",
+    "storage_bucket": "leadee-c50ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685897189625:android:51aa59a98a714697c03a28",
+        "android_client_info": {
+          "package_name": "com.example.leadeetuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685897189625-6ans9bcf52b29qasdh5idi7hgcom7jdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leadeetuto",
+            "certificate_hash": "07f415d5f222da69d53e0855b26687201777c1d9"
+          }
+        },
+        {
+          "client_id": "685897189625-o15phchrob06pp6s0mot2f14p6auch9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnL7ZPsjjGJdsFN60G26l4ttWrv097XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685897189625-o15phchrob06pp6s0mot2f14p6auch9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
